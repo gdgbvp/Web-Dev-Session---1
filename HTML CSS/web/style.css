@@ -1,0 +1,10 @@
+div{border:10px solid green;
+	background-color:black;
+	color:red;
+	width:170px;
+	height:140px;
+	overflow:scroll;
+	position:absolute;
+	}
+#intro{color:red;}
+#info{color:green;}	
